@@ -4,14 +4,14 @@ spring:
     -dev
 ---
 spring:
-  profiles: dev
+  profiles:  dev
   application:
-    name: microservicecloud-config-weit-dev
+    name:  microservicecloud-config-weit-dev
 ---
 spring:
-  profiles: test
+  profiles:  test
   application:
-    name: microservicecloud-config-weit-test
+    name:  microservicecloud-config-weit-test
         
  
 
