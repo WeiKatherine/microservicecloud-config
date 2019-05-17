@@ -8,7 +8,7 @@ spring:
   application:
     name: microservicecloud-config-weit-dev
 ---
-spring
+spring:
   profiles: test
   application:
     name: microservicecloud-config-weit-test
